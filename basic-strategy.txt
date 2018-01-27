@@ -1,0 +1,5 @@
+Focus on local switches and center balance
+Retrieve blocks for vault when idle
+
+Autonomous: cross auto line, place single block on switch
+Position either in front of switch or by vault?
